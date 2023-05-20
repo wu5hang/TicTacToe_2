@@ -2,4 +2,4 @@
 
 Tic-Tac-Toe Game with some advanced functions of java.
 
-To check:-
+(Check "TicTacToe.java" file for source code)
